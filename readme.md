@@ -10,14 +10,14 @@ A tv series search engine that returns the number of hours it would take to fini
 
 ## What am I using?
 
-This project was built using python and django, and the front-end is mostly Materialize.
+This project was built using python and django, the front-end is mostly Materialize.
 
 ### Development
 Want to contribute? Great!
+Take a look at the trello board for this project to see what we need to get done: https://trello.com/b/NIxW5CTs/tv-app
 
 To fix a bug or enhance an existing module, follow these steps:
 
-Take a look at the trello board for this project: https://trello.com/b/NIxW5CTs/tv-app
 
 - Fork the repo
 - Create a new branch (`git checkout -b improve-feature`)
