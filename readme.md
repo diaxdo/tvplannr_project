@@ -21,6 +21,6 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Authors
 
-* **Dalia** - *Initial work* - [PurpleBooth](https://github.com/diaxdo)
+* **Dalia** - *Initial work* - [diaxdo](https://github.com/diaxdo)
 
 Hopefully more people will help soon!! 
