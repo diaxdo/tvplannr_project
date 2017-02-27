@@ -1,0 +1,89 @@
+body {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  font-family: Raleway;
+  background: url("/static/tv_plannr/img/background.png");
+  background-size: 100% 100vh;
+  background-repeat: no-repeat;
+}
+
+.input-field{
+  width: 300px;
+}
+
+#bottom{
+  background-color: #222222;
+  height: 15%;
+  width: 100%;
+  position: absolute;
+  bottom: 30px;
+}
+
+#search{
+  min-height: 60vh;
+}
+h1{
+  font-weight: 200;
+  color: white;
+  padding-bottom: 5%;
+  margin-top: 10%;
+  text-shadow: 2px 2px 3px #323232;
+  letter-spacing: 7px;
+}
+h5{
+  font-weight: 200;
+  letter-spacing: 5px;
+}
+.bottom-link{
+  letter-spacing: 3px;
+  font-size: 1em;
+}
+/* label color */
+.input-field label {
+  color: white;
+  font-size: 1.5em;
+  font-weight: 200;
+}
+   /* label focus color */
+.input-field input[type=text]:focus + label {
+  color: white;
+}
+   /* label underline focus color */
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid white;
+  box-shadow: 0 1px 0 0 #dadada;
+}
+nav {
+    height: 30px;
+    line-height: 30px;
+    background-color: black;
+    position: fixed;
+    bottom: 0px;
+}
+nav a{
+  font-weight: 200;
+  letter-spacing: 2px;
+  opacity: 0.7;
+}
+.top-bar{
+  width: 100%;
+  height: 100px;
+  background-color: #222222;
+}
+#test5{
+  width: 20%;
+  top: 40px;
+  margin: 10px;
+}
+.bottom-bar{
+  background-color: white;
+  margin-top: 30vh;
+  height: 20%;
+}
+.calculation{
+    text-shadow: 3px 3px 3px #181818;
+}
+#sum{
+    text-shadow: 1px 1px 2px #323232;
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      {% load staticfiles %}
+      <!--Import Google Icon Font-->
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Raleway:200" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Raleway:100" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="{% static 'tv_plannr/css/materialize.min.css' %}"  media="screen,projection"/>
+      <link rel="stylesheet" href="{% static 'tv_plannr/css/main.css' %}"media="screen" title="no title"  charset="utf-8">
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+<body>
+  <div class="top-bar">
+    <div class="row">
+      <form action="#">
+        <p class="range-field">
+          <input class="col s4" type="range" id="test5" min="0" max="24" />
+        </p>
+        <p class="range-field">
+          <input class="col s4" type="range" id="test5" min="0" max="24" />
+        </p>
+        <p class="range-field">
+          <input class="col s4" type="range" id="test5" min="0" max="24" />
+        </p>
+      </form>
+    </div>
+  </div>
+  <div class="container">
+    <h3 class="white-text light calculation">according to your planning you will spend approximately [x] hours /day for [y] days watching [your tv series] </h3>
+  </div>
+  <div class="bottom-bar">
+    <div class="container center-align">
+          <div class="col l12 s12">
+            <h5 class="black-text" id="sum">it will take you [x] hours to watch that</h5>
+          </div>
+    </div>
+  </div>
+
+      <!--Import jQuery before materialize.js-->
+      {% load staticfiles %}
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="{% static 'tv_plannr/js/materialize.min.js' %}"></script>
+    </body>
+  </html>
