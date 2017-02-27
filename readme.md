@@ -4,7 +4,7 @@ A tv series search engine that returns the number of hours it would take to fini
 
 <div display="block" align="center"><img width=45% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Index.png">
 <img display="inline-block" width=45% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Plannr.png"></div>
-<div display="block" align="center"><img width=45% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Create%20Account.png"></p>
+<div display="block" align="center"><img width=45% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Create%20Account.png">
 <img width=45% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Log%20In%20(possibly%20a%20pop%20up).png">
 </div>
 
