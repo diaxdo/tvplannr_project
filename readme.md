@@ -2,10 +2,10 @@
 
 A tv series search engine that returns the number of hours it would take to finish that series. Users are then allowed to add in hours of work/sleep/misc to their 'tvplan'. Users are also able to create accounts and save their schedules to those accounts. 
 
-<p align="center"><img width=12.5% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Index.png"></p>
-<p align="center"><img width=12.5% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Plannr.png"></p>
-<p align="center"><img width=12.5% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Create%20Account.png"></p>
-<p align="center"><img width=12.5% src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Log%20In%20(possibly%20a%20pop%20up).png"></p>
+<p align="center"><img src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Index.png"></p>
+<p align="center"><img src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Plannr.png"></p>
+<p align="center"><img src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Create%20Account.png"></p>
+<p align="center"><img src="https://github.com/diaxdo/tvplannr_project/blob/master/wireframes/Log%20In%20(possibly%20a%20pop%20up).png"></p>
 
 ## What am I using?
 
