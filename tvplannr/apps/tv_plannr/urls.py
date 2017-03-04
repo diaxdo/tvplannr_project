@@ -2,5 +2,6 @@ from django.conf.urls import url
 from . import views
 urlpatterns = [
     url(r'^$', views.index),
-    url(r'^plannr$', views.plannr)
+    url(r'^plannr$', views.plannr),
+    url(r'^create_account$', views.create_account),
 ]

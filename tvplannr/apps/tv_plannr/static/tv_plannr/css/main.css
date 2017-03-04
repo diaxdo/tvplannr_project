@@ -7,11 +7,9 @@ body {
   background-size: 100% 100vh;
   background-repeat: no-repeat;
 }
-
 .input-field{
   width: 300px;
 }
-
 #bottom{
   background-color: #222222;
   height: 15%;
@@ -19,7 +17,6 @@ body {
   position: absolute;
   bottom: 30px;
 }
-
 #search{
   min-height: 60vh;
 }
@@ -86,4 +83,10 @@ nav a{
 }
 #sum{
     text-shadow: 1px 1px 2px #323232;
+}
+.create-account{
+  width: 100%;
+  height: 75vh;
+  margin-top: 6%;
+  background-color: white;
 }
