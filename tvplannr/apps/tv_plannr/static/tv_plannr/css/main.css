@@ -89,4 +89,27 @@ nav a{
   height: 75vh;
   margin-top: 6%;
   background-color: white;
+  text-align: center;
+}
+.registration{
+  display: block;
+}
+.register{
+  display: inline-block;
+}
+.or-log-in{
+  vertical-align: top;
+  margin-top: 10%;
+  margin-left: 5%;
+  display: inline-block;
+}
+.log-in{
+  text-align: center;
+}
+.white-box{
+  width: 70%;
+  height: 80%;
+  margin-top: 10vh;
+  background-color: white;
+  border-radius: 3px;
 }

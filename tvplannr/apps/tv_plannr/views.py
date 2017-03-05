@@ -10,3 +10,6 @@ def plannr(request):
 def create_account(request):
     print('8'*100)
     return render(request, 'tv_plannr/create_account.html')
+def log_in(request):
+    print('8'*100)
+    return render(request, 'tv_plannr/log_in.html')
