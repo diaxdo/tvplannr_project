@@ -14,18 +14,9 @@ This project was built using python and django, the front-end is mostly Material
 
 ### Development
 Want to contribute? Great!
-Take a look at the trello board for this project to see what we need to get done: https://trello.com/b/NIxW5CTs/tv-app
 
-To fix a bug or enhance an existing module, follow these steps:
+send me a message pls
 
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
 
 ## Authors
 
